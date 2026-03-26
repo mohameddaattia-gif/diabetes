@@ -1,7 +1,7 @@
 ## Diabetes Prediction using Machine Learning
 
  Predict whether a patient has diabetes based on medical diagnostic measurements.
-
+ 
 #  Dataset:
 
 Pima Indians Diabetes Database
